@@ -1,0 +1,301 @@
+id_jukir,tipe_lokasi,hari,jumlah_kendaraan,pendapatan_harian_rp
+JKR-001,Pasar/Kuliner,Senin,120,322000
+JKR-001,Pasar/Kuliner,Selasa,76,214000
+JKR-001,Pasar/Kuliner,Rabu,109,313000
+JKR-001,Pasar/Kuliner,Kamis,25,87000
+JKR-001,Pasar/Kuliner,Jumat,94,302000
+JKR-002,Minimarket,Senin,93,217000
+JKR-002,Minimarket,Selasa,76,184000
+JKR-002,Minimarket,Rabu,41,99000
+JKR-002,Minimarket,Kamis,122,297000
+JKR-002,Minimarket,Jumat,149,343000
+JKR-003,Pasar/Kuliner,Senin,60,201000
+JKR-003,Pasar/Kuliner,Selasa,110,289000
+JKR-003,Pasar/Kuliner,Rabu,150,400000
+JKR-003,Pasar/Kuliner,Kamis,106,279000
+JKR-003,Pasar/Kuliner,Jumat,49,128000
+JKR-004,Minimarket,Senin,118,311000
+JKR-004,Minimarket,Selasa,71,226000
+JKR-004,Minimarket,Rabu,148,420000
+JKR-004,Minimarket,Kamis,140,333000
+JKR-004,Minimarket,Jumat,125,291000
+JKR-005,Ruko/Pertokoan,Senin,121,392000
+JKR-005,Ruko/Pertokoan,Selasa,149,426000
+JKR-005,Ruko/Pertokoan,Rabu,155,433000
+JKR-005,Ruko/Pertokoan,Kamis,334,971000
+JKR-005,Ruko/Pertokoan,Jumat,236,697000
+JKR-006,Minimarket,Senin,114,261000
+JKR-006,Minimarket,Selasa,86,192000
+JKR-006,Minimarket,Rabu,73,167000
+JKR-006,Minimarket,Kamis,93,227000
+JKR-006,Minimarket,Jumat,125,338000
+JKR-007,Pasar/Kuliner,Senin,85,212000
+JKR-007,Pasar/Kuliner,Selasa,208,568000
+JKR-007,Pasar/Kuliner,Rabu,114,322000
+JKR-007,Pasar/Kuliner,Kamis,91,218000
+JKR-007,Pasar/Kuliner,Jumat,148,383000
+JKR-008,Minimarket,Senin,122,346000
+JKR-008,Minimarket,Selasa,63,132000
+JKR-008,Minimarket,Rabu,87,223000
+JKR-008,Minimarket,Kamis,108,251000
+JKR-008,Minimarket,Jumat,108,307000
+JKR-009,Minimarket,Senin,39,93000
+JKR-009,Minimarket,Selasa,42,101000
+JKR-009,Minimarket,Rabu,26,76000
+JKR-009,Minimarket,Kamis,67,182000
+JKR-009,Minimarket,Jumat,7,25000
+JKR-010,Pasar/Kuliner,Senin,62,200000
+JKR-010,Pasar/Kuliner,Selasa,190,615000
+JKR-010,Pasar/Kuliner,Rabu,98,286000
+JKR-010,Pasar/Kuliner,Kamis,103,263000
+JKR-010,Pasar/Kuliner,Jumat,124,299000
+JKR-011,Pasar/Kuliner,Senin,110,294000
+JKR-011,Pasar/Kuliner,Selasa,182,532000
+JKR-011,Pasar/Kuliner,Rabu,107,334000
+JKR-011,Pasar/Kuliner,Kamis,64,146000
+JKR-011,Pasar/Kuliner,Jumat,292,837000
+JKR-012,Minimarket,Senin,149,344000
+JKR-012,Minimarket,Selasa,48,111000
+JKR-012,Minimarket,Rabu,162,467000
+JKR-012,Minimarket,Kamis,197,476000
+JKR-012,Minimarket,Jumat,153,347000
+JKR-013,Minimarket,Senin,102,283000
+JKR-013,Minimarket,Selasa,75,192000
+JKR-013,Minimarket,Rabu,73,167000
+JKR-013,Minimarket,Kamis,161,419000
+JKR-013,Minimarket,Jumat,159,362000
+JKR-014,Minimarket,Senin,65,185000
+JKR-014,Minimarket,Selasa,99,238000
+JKR-014,Minimarket,Rabu,19,44000
+JKR-014,Minimarket,Kamis,41,138000
+JKR-014,Minimarket,Jumat,165,466000
+JKR-015,Minimarket,Senin,75,193000
+JKR-015,Minimarket,Selasa,87,215000
+JKR-015,Minimarket,Rabu,54,114000
+JKR-015,Minimarket,Kamis,92,250000
+JKR-015,Minimarket,Jumat,88,217000
+JKR-016,Minimarket,Senin,143,370000
+JKR-016,Minimarket,Selasa,145,398000
+JKR-016,Minimarket,Rabu,124,305000
+JKR-016,Minimarket,Kamis,82,248000
+JKR-016,Minimarket,Jumat,177,431000
+JKR-017,Minimarket,Senin,161,407000
+JKR-017,Minimarket,Selasa,199,504000
+JKR-017,Minimarket,Rabu,92,219000
+JKR-017,Minimarket,Kamis,142,353000
+JKR-017,Minimarket,Jumat,169,444000
+JKR-018,Kawasan Komersial,Senin,58,176000
+JKR-018,Kawasan Komersial,Selasa,198,634000
+JKR-018,Kawasan Komersial,Rabu,86,273000
+JKR-018,Kawasan Komersial,Kamis,231,750000
+JKR-018,Kawasan Komersial,Jumat,202,637000
+JKR-019,Ruko/Pertokoan,Senin,38,109000
+JKR-019,Ruko/Pertokoan,Selasa,71,184000
+JKR-019,Ruko/Pertokoan,Rabu,81,226000
+JKR-019,Ruko/Pertokoan,Kamis,54,164000
+JKR-019,Ruko/Pertokoan,Jumat,80,238000
+JKR-020,Minimarket,Senin,153,366000
+JKR-020,Minimarket,Selasa,13,26000
+JKR-020,Minimarket,Rabu,98,319000
+JKR-020,Minimarket,Kamis,101,277000
+JKR-020,Minimarket,Jumat,114,317000
+JKR-021,Ruko/Pertokoan,Senin,85,229000
+JKR-021,Ruko/Pertokoan,Selasa,47,146000
+JKR-021,Ruko/Pertokoan,Rabu,62,180000
+JKR-021,Ruko/Pertokoan,Kamis,132,367000
+JKR-021,Ruko/Pertokoan,Jumat,123,339000
+JKR-022,Minimarket,Senin,123,336000
+JKR-022,Minimarket,Selasa,24,60000
+JKR-022,Minimarket,Rabu,88,203000
+JKR-022,Minimarket,Kamis,193,485000
+JKR-022,Minimarket,Jumat,86,259000
+JKR-023,Ruko/Pertokoan,Senin,103,283000
+JKR-023,Ruko/Pertokoan,Selasa,136,453000
+JKR-023,Ruko/Pertokoan,Rabu,50,135000
+JKR-023,Ruko/Pertokoan,Kamis,111,307000
+JKR-023,Ruko/Pertokoan,Jumat,121,349000
+JKR-024,Pasar/Kuliner,Senin,70,193000
+JKR-024,Pasar/Kuliner,Selasa,153,391000
+JKR-024,Pasar/Kuliner,Rabu,39,90000
+JKR-024,Pasar/Kuliner,Kamis,130,378000
+JKR-024,Pasar/Kuliner,Jumat,185,480000
+JKR-025,Pasar/Kuliner,Senin,81,192000
+JKR-025,Pasar/Kuliner,Selasa,116,289000
+JKR-025,Pasar/Kuliner,Rabu,66,171000
+JKR-025,Pasar/Kuliner,Kamis,150,401000
+JKR-025,Pasar/Kuliner,Jumat,213,548000
+JKR-026,Pasar/Kuliner,Senin,111,332000
+JKR-026,Pasar/Kuliner,Selasa,60,181000
+JKR-026,Pasar/Kuliner,Rabu,164,458000
+JKR-026,Pasar/Kuliner,Kamis,52,130000
+JKR-026,Pasar/Kuliner,Jumat,40,110000
+JKR-027,Minimarket,Senin,121,303000
+JKR-027,Minimarket,Selasa,171,475000
+JKR-027,Minimarket,Rabu,129,335000
+JKR-027,Minimarket,Kamis,215,516000
+JKR-027,Minimarket,Jumat,129,324000
+JKR-028,Pasar/Kuliner,Senin,135,371000
+JKR-028,Pasar/Kuliner,Selasa,167,451000
+JKR-028,Pasar/Kuliner,Rabu,209,526000
+JKR-028,Pasar/Kuliner,Kamis,140,387000
+JKR-028,Pasar/Kuliner,Jumat,58,155000
+JKR-029,Kawasan Komersial,Senin,69,247000
+JKR-029,Kawasan Komersial,Selasa,207,651000
+JKR-029,Kawasan Komersial,Rabu,112,390000
+JKR-029,Kawasan Komersial,Kamis,213,721000
+JKR-029,Kawasan Komersial,Jumat,69,228000
+JKR-030,Pasar/Kuliner,Senin,74,188000
+JKR-030,Pasar/Kuliner,Selasa,134,363000
+JKR-030,Pasar/Kuliner,Rabu,87,229000
+JKR-030,Pasar/Kuliner,Kamis,175,475000
+JKR-030,Pasar/Kuliner,Jumat,207,557000
+JKR-031,Kawasan Komersial,Senin,119,379000
+JKR-031,Kawasan Komersial,Selasa,55,172000
+JKR-031,Kawasan Komersial,Rabu,51,168000
+JKR-031,Kawasan Komersial,Kamis,74,237000
+JKR-031,Kawasan Komersial,Jumat,125,418000
+JKR-032,Kawasan Komersial,Senin,84,276000
+JKR-032,Kawasan Komersial,Selasa,49,149000
+JKR-032,Kawasan Komersial,Rabu,58,190000
+JKR-032,Kawasan Komersial,Kamis,287,900000
+JKR-032,Kawasan Komersial,Jumat,71,234000
+JKR-033,Minimarket,Senin,103,273000
+JKR-033,Minimarket,Selasa,35,85000
+JKR-033,Minimarket,Rabu,79,202000
+JKR-033,Minimarket,Kamis,28,71000
+JKR-033,Minimarket,Jumat,135,365000
+JKR-034,Pasar/Kuliner,Senin,91,255000
+JKR-034,Pasar/Kuliner,Selasa,98,278000
+JKR-034,Pasar/Kuliner,Rabu,99,301000
+JKR-034,Pasar/Kuliner,Kamis,119,319000
+JKR-034,Pasar/Kuliner,Jumat,72,206000
+JKR-035,Pasar/Kuliner,Senin,32,115000
+JKR-035,Pasar/Kuliner,Selasa,76,213000
+JKR-035,Pasar/Kuliner,Rabu,166,515000
+JKR-035,Pasar/Kuliner,Kamis,139,358000
+JKR-035,Pasar/Kuliner,Jumat,163,457000
+JKR-036,Minimarket,Senin,58,173000
+JKR-036,Minimarket,Selasa,53,135000
+JKR-036,Minimarket,Rabu,32,91000
+JKR-036,Minimarket,Kamis,69,153000
+JKR-036,Minimarket,Jumat,44,126000
+JKR-037,Pasar/Kuliner,Senin,145,424000
+JKR-037,Pasar/Kuliner,Selasa,124,405000
+JKR-037,Pasar/Kuliner,Rabu,102,260000
+JKR-037,Pasar/Kuliner,Kamis,221,568000
+JKR-037,Pasar/Kuliner,Jumat,231,656000
+JKR-038,Kawasan Komersial,Senin,145,449000
+JKR-038,Kawasan Komersial,Selasa,226,724000
+JKR-038,Kawasan Komersial,Rabu,49,172000
+JKR-038,Kawasan Komersial,Kamis,131,435000
+JKR-038,Kawasan Komersial,Jumat,166,553000
+JKR-039,Pasar/Kuliner,Senin,55,177000
+JKR-039,Pasar/Kuliner,Selasa,142,369000
+JKR-039,Pasar/Kuliner,Rabu,32,97000
+JKR-039,Pasar/Kuliner,Kamis,228,591000
+JKR-039,Pasar/Kuliner,Jumat,278,767000
+JKR-040,Minimarket,Senin,72,168000
+JKR-040,Minimarket,Selasa,96,233000
+JKR-040,Minimarket,Rabu,55,119000
+JKR-040,Minimarket,Kamis,104,263000
+JKR-040,Minimarket,Jumat,125,364000
+JKR-041,Ruko/Pertokoan,Senin,59,151000
+JKR-041,Ruko/Pertokoan,Selasa,71,218000
+JKR-041,Ruko/Pertokoan,Rabu,220,636000
+JKR-041,Ruko/Pertokoan,Kamis,76,238000
+JKR-041,Ruko/Pertokoan,Jumat,222,679000
+JKR-042,Minimarket,Senin,44,120000
+JKR-042,Minimarket,Selasa,68,163000
+JKR-042,Minimarket,Rabu,58,143000
+JKR-042,Minimarket,Kamis,25,53000
+JKR-042,Minimarket,Jumat,127,331000
+JKR-043,Kawasan Komersial,Senin,133,425000
+JKR-043,Kawasan Komersial,Selasa,56,211000
+JKR-043,Kawasan Komersial,Rabu,112,389000
+JKR-043,Kawasan Komersial,Kamis,153,467000
+JKR-043,Kawasan Komersial,Jumat,122,381000
+JKR-044,Minimarket,Senin,68,165000
+JKR-044,Minimarket,Selasa,87,242000
+JKR-044,Minimarket,Rabu,180,448000
+JKR-044,Minimarket,Kamis,46,137000
+JKR-044,Minimarket,Jumat,61,149000
+JKR-045,Minimarket,Senin,183,471000
+JKR-045,Minimarket,Selasa,288,701000
+JKR-045,Minimarket,Rabu,66,208000
+JKR-045,Minimarket,Kamis,138,342000
+JKR-045,Minimarket,Jumat,221,542000
+JKR-046,Minimarket,Senin,111,269000
+JKR-046,Minimarket,Selasa,132,341000
+JKR-046,Minimarket,Rabu,102,252000
+JKR-046,Minimarket,Kamis,92,213000
+JKR-046,Minimarket,Jumat,103,261000
+JKR-047,Pasar/Kuliner,Senin,40,89000
+JKR-047,Pasar/Kuliner,Selasa,52,142000
+JKR-047,Pasar/Kuliner,Rabu,122,326000
+JKR-047,Pasar/Kuliner,Kamis,93,332000
+JKR-047,Pasar/Kuliner,Jumat,174,521000
+JKR-048,Minimarket,Senin,94,197000
+JKR-048,Minimarket,Selasa,151,399000
+JKR-048,Minimarket,Rabu,49,140000
+JKR-048,Minimarket,Kamis,127,325000
+JKR-048,Minimarket,Jumat,62,170000
+JKR-049,Minimarket,Senin,22,47000
+JKR-049,Minimarket,Selasa,61,146000
+JKR-049,Minimarket,Rabu,55,146000
+JKR-049,Minimarket,Kamis,60,170000
+JKR-049,Minimarket,Jumat,77,199000
+JKR-050,Pasar/Kuliner,Senin,222,619000
+JKR-050,Pasar/Kuliner,Selasa,249,646000
+JKR-050,Pasar/Kuliner,Rabu,319,847000
+JKR-050,Pasar/Kuliner,Kamis,125,350000
+JKR-050,Pasar/Kuliner,Jumat,190,554000
+JKR-051,Ruko/Pertokoan,Senin,107,309000
+JKR-051,Ruko/Pertokoan,Selasa,105,276000
+JKR-051,Ruko/Pertokoan,Rabu,91,266000
+JKR-051,Ruko/Pertokoan,Kamis,77,216000
+JKR-051,Ruko/Pertokoan,Jumat,113,333000
+JKR-052,Minimarket,Senin,77,166000
+JKR-052,Minimarket,Selasa,106,291000
+JKR-052,Minimarket,Rabu,85,218000
+JKR-052,Minimarket,Kamis,44,123000
+JKR-052,Minimarket,Jumat,82,242000
+JKR-053,Minimarket,Senin,87,198000
+JKR-053,Minimarket,Selasa,72,156000
+JKR-053,Minimarket,Rabu,106,266000
+JKR-053,Minimarket,Kamis,218,529000
+JKR-053,Minimarket,Jumat,124,316000
+JKR-054,Ruko/Pertokoan,Senin,141,364000
+JKR-054,Ruko/Pertokoan,Selasa,80,261000
+JKR-054,Ruko/Pertokoan,Rabu,210,610000
+JKR-054,Ruko/Pertokoan,Kamis,186,566000
+JKR-054,Ruko/Pertokoan,Jumat,119,338000
+JKR-055,Ruko/Pertokoan,Senin,66,171000
+JKR-055,Ruko/Pertokoan,Selasa,119,333000
+JKR-055,Ruko/Pertokoan,Rabu,102,275000
+JKR-055,Ruko/Pertokoan,Kamis,92,269000
+JKR-055,Ruko/Pertokoan,Jumat,102,275000
+JKR-056,Minimarket,Senin,92,238000
+JKR-056,Minimarket,Selasa,37,86000
+JKR-056,Minimarket,Rabu,56,149000
+JKR-056,Minimarket,Kamis,113,273000
+JKR-056,Minimarket,Jumat,36,78000
+JKR-057,Minimarket,Senin,158,407000
+JKR-057,Minimarket,Selasa,68,165000
+JKR-057,Minimarket,Rabu,57,117000
+JKR-057,Minimarket,Kamis,126,317000
+JKR-057,Minimarket,Jumat,107,241000
+JKR-058,Minimarket,Senin,85,209000
+JKR-058,Minimarket,Selasa,54,125000
+JKR-058,Minimarket,Rabu,72,181000
+JKR-058,Minimarket,Kamis,92,228000
+JKR-058,Minimarket,Jumat,75,182000
+JKR-059,Minimarket,Senin,132,341000
+JKR-059,Minimarket,Selasa,31,71000
+JKR-059,Minimarket,Rabu,61,151000
+JKR-059,Minimarket,Kamis,69,153000
+JKR-059,Minimarket,Jumat,140,336000
+JKR-060,Ruko/Pertokoan,Senin,87,235000
+JKR-060,Ruko/Pertokoan,Selasa,127,389000
+JKR-060,Ruko/Pertokoan,Rabu,76,306000
+JKR-060,Ruko/Pertokoan,Kamis,127,417000
+JKR-060,Ruko/Pertokoan,Jumat,68,186000
