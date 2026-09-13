@@ -101,13 +101,19 @@ metodologisnya dibahas terbuka di `docs/PROMPT_EVALUASI.md` Lapis 5.
 │   ├── 01_generate_dataset.py         bangun dataset (seed tetap = 42)
 │   ├── 02_uji_distribusi.py           fit 6 distribusi + KS/AD/AIC
 │   ├── 03_plot_histogram.py           histogram + Q-Q + ECDF + boxplot
-│   └── 04_validasi_mandiri.py         16 pemeriksaan validitas otomatis
+│   ├── 04_validasi_mandiri.py         16 pemeriksaan validitas otomatis
+│   ├── 05_pdf_cdf.py                  rumus & kurva PDF/CDF + momen teoretis
+│   ├── 06_aset_poster.py              kurva & rumus siap tempel (Canva)
+│   └── 07_tabel_poster.py             gambar tabel siap tempel (Canva)
 ├── output/
 │   ├── histogram_pendapatan.png       histogram utama
 │   ├── diagnostik_distribusi.png      panel diagnostik 2×2
 │   ├── histogram_per_lokasi.png       small multiples per tipe lokasi
+│   ├── pdf_cdf_gamma.png              kurva PDF & CDF berdampingan
 │   ├── hasil_uji_distribusi.csv       tabel peringkat lengkap
-│   └── ringkasan.json                 ringkasan mesin-terbaca
+│   ├── tabel_pdf_cdf.csv              nilai f(x), F(x), 1-F(x)
+│   ├── ringkasan.json                 ringkasan mesin-terbaca
+│   └── poster/                        11 aset PNG untuk poster
 └── docs/
     └── PROMPT_EVALUASI.md             prompt evaluasi validitas data
 ```
@@ -123,10 +129,38 @@ python src/01_generate_dataset.py     # -> data/pendapatan_jukir_liar.csv
 python src/02_uji_distribusi.py       # -> output/hasil_uji_distribusi.csv
 python src/03_plot_histogram.py       # -> output/*.png
 python src/04_validasi_mandiri.py     # -> laporan validasi ke terminal
+python src/05_pdf_cdf.py              # -> output/pdf_cdf_gamma.png
+python src/06_aset_poster.py          # -> output/poster/kurva & rumus
+python src/07_tabel_poster.py         # -> output/poster/tabel
 ```
 
 Seluruh skrip memakai `seed = 42`, sehingga hasilnya **identik setiap kali
 dijalankan**.
+
+---
+
+## Model PDF dan CDF
+
+![Kurva PDF dan CDF](output/pdf_cdf_gamma.png)
+
+**PDF** — f(x) = x^(α−1) · e^(−x/β) / (β^α · Γ(α)), dengan Γ(3,3714) = 2,8918
+sehingga penyebutnya bernilai 1,4485 × 10^17.
+
+**CDF** — F(x) = γ(α, x/β) / Γ(α). Karena α bukan bilangan bulat, CDF Gamma
+tidak punya bentuk tertutup elementer dan dihitung numerik.
+
+| Ukuran | Rumus | Teoretis | Empiris |
+|---|---|---:|---:|
+| Mean | αβ | Rp 302.807 | Rp 302.807 |
+| Modus | (α−1)β | Rp 212.990 | — |
+| Median | F⁻¹(0,5) | Rp 273.452 | Rp 274.000 |
+| Simpangan baku | β√α | Rp 164.915 | Rp 165.714 |
+| Kemencengan | 2/√α | 1,0892 | 1,0983 |
+
+Modus < median < mean — urutan baku sebaran menceng kanan.
+
+Peluang: P(X < 200.000) = 30,0 % · P(200.000 < X < 400.000) = 46,2 % ·
+P(X > 500.000) = 11,9 % · P(X > 1.000.000) = 0,19 %.
 
 ---
 
